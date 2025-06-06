@@ -1,4 +1,4 @@
 # About me...
 
-- 🌱 I’m currently learning to program in **Python**.
-- ⚡ Fun fact: Je ne parle anglais... encore.
+- 🌱 I’m currently learning to program in **Python*
+- 📽 I like Russian literature and Kubrick's films.
